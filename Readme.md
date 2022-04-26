@@ -1,0 +1,1 @@
+Add readme.md for exercise2cloningc
